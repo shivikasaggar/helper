@@ -1,0 +1,57 @@
+.title{
+	color: black;
+
+}
+.container{
+	padding-left:0px;
+	padding-right: 5px;
+	height: 100%;
+	width: 100%;
+	background-color: linen;
+}
+
+.header{
+	height: 10%;
+	width: 100%;
+padding-left:15px;
+	
+}
+.navcust{
+	
+	border:10px;
+	width: 100%;
+	padding-right: 20px;
+}
+ .affix {
+      top: 0;
+      width: 100%;
+      z-index: 9999 !important;
+  }
+a{
+	color: white;
+
+}
+.aside{
+	padding-left:15px;
+	padding-top: 10px;
+	margin-left: 10px
+	margin-top: 10px;
+	width:20%;
+	background-color: black;
+	color: white;
+	line-height: 5px;
+	overflow: scroll;
+
+
+}
+.title{
+	line-height: 12px;
+	display: inline-block;
+}
+.moto{
+	line-height: 12px;
+	display: inline-block;
+}
+.contact{
+	background-color: white;
+}
